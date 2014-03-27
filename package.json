@@ -1,0 +1,14 @@
+{
+  "name": "Class",
+  "version": "0.0.0",
+  "description": "Inplement CoffeeScript's Class System",
+  "main": "Class.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "mopig",
+  "license": "MIT",
+  "devDependencies": {
+    "coffee-script": "^1.7.1"
+  }
+}
